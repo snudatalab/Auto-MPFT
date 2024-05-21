@@ -37,7 +37,7 @@ If you use this code, please cite the following paper.
 ~~~
 @inproceedings{ParkKK24,
   author    = {Yong-chan Park and
-               Jongjin Kim Jang and
+               Jongjin Kim and
                U Kang},
   title     = {Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection},
   booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
