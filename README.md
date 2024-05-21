@@ -31,9 +31,9 @@ The real-world datasets are available at [Cityscapes](https://www.cityscapes-dat
 | RiceLeaf | Real-world | 3.3K | $3120 \times 3120$ |
 | Bird | Real-world | 306 | $6000 \times 4000$ |
 
-## Reference
+## References
 
-If you use this code, please cite the following paper.
+If you use this code, please cite the following papers.
 ~~~
 @inproceedings{ParkKK24,
   author    = {Yong-chan Park and
@@ -42,5 +42,16 @@ If you use this code, please cite the following paper.
   title     = {Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection},
   booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
   year      = {2024}
+}
+~~~
+
+~~~
+@inproceedings{ParkJK21,
+  author    = {Yong-chan Park and
+               Jun-Gi Jang and
+               U Kang},
+  title     = {Fast and Accurate Partial Fourier Transform for Time Series Data},
+  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  year      = {2021}
 }
 ~~~
