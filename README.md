@@ -5,7 +5,7 @@ This repository is the official implementation of
 (KDD 2024).
 The codes for [FFTW](http://www.fftw.org/index.html), [MKL](https://software.intel.com/mkl), [PFT](https://github.com/snudatalab/PFT/blob/main/src/PFT.cpp), and [Pruned FFT](http://www.fftw.org/pruned.html) are also included in `src/`.
 
-![Overview](https://raw.githubusercontent.com/snudatalab/Auto-MPFT/main/docs/overview.png)
+![Overview](https://raw.githubusercontent.com/snudatalab/Auto-MPFT/main/docs/overview_.png)
 
 ## Abstract
 
