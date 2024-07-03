@@ -5,6 +5,8 @@ This repository is the official implementation of
 (KDD 2024).
 The codes for [FFTW](http://www.fftw.org/index.html), [MKL](https://software.intel.com/mkl), [PFT](https://github.com/snudatalab/PFT/blob/main/src/PFT.cpp), and [Pruned FFT](http://www.fftw.org/pruned.html) are also included in `src/`.
 
+![Overview](https://raw.githubusercontent.com/snudatalab/Auto-MPFT/main/docs/overview.png)
+
 ## Abstract
 
 Given a multidimensional array, how can we optimize the computation process for a part of Fourier coefficients? Discrete Fourier transform plays an overarching role in various data mining tasks. Recent interest has focused on efficiently calculating a small part of Fourier coefficients, exploiting the energy compaction property of real-world data. Current methods for partial Fourier transform frequently encounter efficiency issues, yet the adoption of pre-computation techniques within the PFT algorithm has shown promising performance. However, PFT still faces limitations in handling multidimensional data efficiently and requires manual hyperparameter tuning, leading to additional costs. 
