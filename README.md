@@ -52,7 +52,7 @@ If you use this code, please cite the following papers.
   author    = {Yong-chan Park and
                Jun-Gi Jang and
                U Kang},
-  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
   pages     = {1309--1318},
   year      = {2021}
 }
