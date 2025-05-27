@@ -41,8 +41,8 @@ If you use this code, please cite the following papers.
   author    = {Yong-chan Park and
                Jongjin Kim and
                U Kang},
-  title     = {Fast Multidimensional Partial Fourier Transform with Automatic Hyperparameter Selection},
-  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages     = {2328--2339},
   year      = {2024}
 }
 ~~~
@@ -52,8 +52,8 @@ If you use this code, please cite the following papers.
   author    = {Yong-chan Park and
                Jun-Gi Jang and
                U Kang},
-  title     = {Fast and Accurate Partial Fourier Transform for Time Series Data},
-  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages     = {1309--1318},
   year      = {2021}
 }
 ~~~
