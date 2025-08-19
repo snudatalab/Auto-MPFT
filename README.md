@@ -36,18 +36,7 @@ The real-world datasets are available at [Cityscapes](https://www.cityscapes-dat
 ## References
 
 If you use this code, please cite the following papers.
-~~~
-@inproceedings{ParkKK24,
-  author    = {Yong-chan Park and
-               Jongjin Kim and
-               U Kang},
-  booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages     = {2328--2339},
-  year      = {2024}
-}
-~~~
-
-~~~
+```bibtex
 @inproceedings{park2024fast,
   title={Fast multidimensional partial fourier transform with automatic hyperparameter selection},
   author={Park, Yong-chan and Kim, Jongjin and Kang, U},
@@ -55,4 +44,11 @@ If you use this code, please cite the following papers.
   pages={2328--2339},
   year={2024}
 }
-~~~
+
+@inproceedings{park2021fast,
+  title={Fast and accurate partial fourier transform for time series data},
+  author={Park, Yong-chan and Jang, Jun-Gi and Kang, U},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={1309--1318},
+  year={2021}
+}
