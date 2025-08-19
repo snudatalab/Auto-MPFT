@@ -48,12 +48,11 @@ If you use this code, please cite the following papers.
 ~~~
 
 ~~~
-@inproceedings{ParkJK21,
-  author    = {Yong-chan Park and
-               Jun-Gi Jang and
-               U Kang},
-  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages     = {1309--1318},
-  year      = {2021}
+@inproceedings{park2024fast,
+  title={Fast multidimensional partial fourier transform with automatic hyperparameter selection},
+  author={Park, Yong-chan and Kim, Jongjin and Kang, U},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={2328--2339},
+  year={2024}
 }
 ~~~
